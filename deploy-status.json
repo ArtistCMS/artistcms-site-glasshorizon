@@ -1,6 +1,5 @@
 {
-  "status": "pending",
-  "message": "Site created, waiting for first deployment",
-  "timestamp": null,
-  "commit": null
+  "status": "success",
+  "lastDeployed": "2026-02-22T16:53:37.582Z",
+  "error": null
 }

@@ -25,17 +25,48 @@
     "logo": null,
     "bandsintown": null,
     "bio": {
-      "name": "Your Artist Name",
-      "genre": null,
-      "about": "Tell your story here. Share your journey, your music, and what drives you as an artist."
+      "name": "Glass Horizon",
+      "genre": "Metalcore",
+      "about": "Glass Horizon is a group of musicians residing in Arizona that bring a new edge to the genre. With a unique blend of heavy riffs and atmospheric soundscapes, our music creates a powerful and immersive experience. We are here for the love of the music and passion for the art."
     },
-    "releases": [],
-    "socials": {},
-    "gallery": {}
+    "releases": [
+      "https://open.spotify.com/album/6a41CHVyqt85BiB4qVOaTo?si=NtjGo8C5SX-ODsXHvceamA",
+      "https://open.spotify.com/album/2Z93IDBq8dK22Iv6tBp2T9?si=9pcMc7TvSjaT9BD3KGCEAA",
+      "https://open.spotify.com/album/5KaMGVIViWjpzJJcqpN23b?si=XLUEvo1ZQzmnhcLpuxEeUw",
+      "https://open.spotify.com/album/5CGawirbMWvu3fN9RHZo0x?si=o_a0gtoLQ9yluLvgSogisg"
+    ],
+    "socials": {
+      "facebook": "https://www.facebook.com/profile.php?id=61564131369371",
+      "instagram": "https://www.instagram.com/glasshorizonmusic",
+      "tiktok": "https://www.tiktok.com/@glasshorizonband"
+    },
+    "gallery": {
+      "0": {
+        "path": "images/gallery/1771779133676.jpg",
+        "caption": "New image",
+        "order": 0
+      },
+      "1": {
+        "path": "images/gallery/1771779128117.jpg",
+        "caption": "New image",
+        "order": 1
+      },
+      "2": {
+        "path": "images/gallery/1771779121977.jpg",
+        "caption": "New image",
+        "order": 2
+      },
+      "3": {
+        "path": "images/gallery/1771779115277.jpg",
+        "caption": "New image",
+        "order": 3
+      }
+    },
+    "": "https://open.spotify.com/album/6a41CHVyqt85BiB4qVOaTo?si=NtjGo8C5SX-ODsXHvceamA"
   },
   "headerOptions": {
     "showName": true,
-    "showGenre": true,
+    "showGenre": false,
     "showLogo": true
   }
 }
