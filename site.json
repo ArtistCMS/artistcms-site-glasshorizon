@@ -1,0 +1,41 @@
+{
+  "template": [
+    "navigation",
+    "header",
+    "bio",
+    "releases",
+    "gallery",
+    "socials"
+  ],
+  "css": {
+    "--primary-color": "#2563eb",
+    "--secondary-color": "#000000",
+    "--tertiary-color": "#000000",
+    "--quaternary-color": "#000000",
+    "--text-color": "#000000",
+    "--logo-width": "25%"
+  },
+  "head": {
+    "title": null,
+    "description": null,
+    "keywords": null,
+    "google_analytics": null
+  },
+  "app": {
+    "logo": null,
+    "bandsintown": null,
+    "bio": {
+      "name": "Your Artist Name",
+      "genre": null,
+      "about": "Tell your story here. Share your journey, your music, and what drives you as an artist."
+    },
+    "releases": [],
+    "socials": {},
+    "gallery": {}
+  },
+  "headerOptions": {
+    "showName": true,
+    "showGenre": true,
+    "showLogo": true
+  }
+}
