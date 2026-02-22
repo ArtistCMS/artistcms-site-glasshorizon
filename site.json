@@ -8,9 +8,9 @@
     "socials"
   ],
   "css": {
-    "--primary-color": "#2563eb",
+    "--primary-color": "#76777f",
     "--secondary-color": "#000000",
-    "--tertiary-color": "#000000",
+    "--tertiary-color": "#ffffff",
     "--quaternary-color": "#000000",
     "--text-color": "#000000",
     "--logo-width": "25%"
