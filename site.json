@@ -30,10 +30,10 @@
       "about": "Glass Horizon is a group of musicians residing in Arizona that bring a new edge to the genre. With a unique blend of heavy riffs and atmospheric soundscapes, our music creates a powerful and immersive experience. We are here for the love of the music and passion for the art."
     },
     "releases": [
-      "https://open.spotify.com/album/6a41CHVyqt85BiB4qVOaTo?si=NtjGo8C5SX-ODsXHvceamA",
-      "https://open.spotify.com/album/2Z93IDBq8dK22Iv6tBp2T9?si=9pcMc7TvSjaT9BD3KGCEAA",
-      "https://open.spotify.com/album/5KaMGVIViWjpzJJcqpN23b?si=XLUEvo1ZQzmnhcLpuxEeUw",
-      "https://open.spotify.com/album/5CGawirbMWvu3fN9RHZo0x?si=o_a0gtoLQ9yluLvgSogisg"
+      "https://open.spotify.com/track/3aNECchawfk2FMChUab5uL?si=68766d99167b4e23",
+      "https://open.spotify.com/track/6e4j8aAK0q6ZkcMSgsbody?si=e282f70c47f14af6",
+      "https://open.spotify.com/track/1zhapZKod65Xk34yn6sMo3?si=e9215751f8814cda",
+      "https://open.spotify.com/track/0PqeIwvhreqLw1s4x4ttId?si=37e30accf50e428b"
     ],
     "socials": {
       "facebook": "https://www.facebook.com/profile.php?id=61564131369371",
@@ -62,7 +62,7 @@
         "order": 3
       }
     },
-    "": "https://open.spotify.com/album/6a41CHVyqt85BiB4qVOaTo?si=NtjGo8C5SX-ODsXHvceamA"
+    "": "https://open.spotify.com/track/3aNECchawfk2FMChUab5uL?si=68766d99167b4e23"
   },
   "headerOptions": {
     "showName": true,
